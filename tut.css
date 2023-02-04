@@ -1,0 +1,32 @@
+body {
+  background: bisque;
+  color: rgb(3, 50, 50);
+  font-weight: 600;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: capitalize;
+}
+.zagolovok {
+  color: palegreen;
+}
+.vse {
+  max-width: 63%;
+  margin: auto;
+  padding: 10px;
+}
+.card {
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+a {
+  color: rgb(35, 20, 2);
+}
+.bg-yellow {
+  background: #fff9dc;
+}
+.bg-green {
+  background: #e5ffe7;
+}
+.bg-red {
+  background: #ffe5e5;
+}
